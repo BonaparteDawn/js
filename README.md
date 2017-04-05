@@ -6,4 +6,4 @@
 * jquery-smartMenu.js 插件地址：https://rawgit.com/BonaparteDawn/js/master/jquery-smartMenu.js
 
 # css
-* smartMenu.css 插件地址：https://github.com/BonaparteDawn/js/tree/master/css/smartMenu.css
+* smartMenu.css 插件地址：https://rawgit.com/BonaparteDawn/js/master/css/smartMenu.css
